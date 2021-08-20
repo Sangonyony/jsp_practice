@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<hr width="50" size="50" noshade>
+<hr width="50px" size="50%" noshade="noshade">
+<hr width="50%" align="left" color="tomato">
+<hr width="50%" align="right" color="lightblue">
+<hr width="50%" align="center" color="#65EDD6">
+</body>
+</html>
