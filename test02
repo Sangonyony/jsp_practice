@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	&lt;안녕하세요&gt;<br>
+	안녕하세요<br>
+	&nbsp;&nbsp;안녕하세요<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;안녕하세요<br><br>
+	
+	<font size="1">ABCDEF 안녕하세요</font><br>
+	<font size="7" color="purple" face="D@Coding">ABCDEF 안녕하세요</font><br>
+	<font size="7" color="purple">ABCDEF 안녕하세요</font><br>
+	
+	일반<br>
+	<b>굵게</b><br>
+	<strong>굵게</strong><br>
+	<small>작게</small><br>
+	<big>크게</big><br>
+	<i>이탤릭체</i><br>
+	<strike>강조,삭제</strike><br>
+	<u>밑줄</u><br>
+	CO<sub>2</sub><br>
+	2<sup>2</sup><br>
+	
+</body>
+</html>
