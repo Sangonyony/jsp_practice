@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<div>
+	안녕하세요<br>
+	안녕하세요<br>
+	안녕하세요<br>
+</div>
+<div align="left">
+	안녕하세요<br>
+	안녕하세요<br>
+	안녕하세요<br>
+</div>
+<div align="center">
+	안녕하세요<br>
+	안녕하세요<br>
+	안녕하세요<br>
+</div>
+<div align="right">
+	안녕하세요<br>
+	안녕하세요<br>
+	안녕하세요<br>
+</div>
+
+</body>
+</html>
