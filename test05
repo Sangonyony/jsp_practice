@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<a href="http://www.naver.com">Naver</a>
+	<a href="/HTML/hello.html">
+		<img alt="고양이" src="/HTML/image/cat.jpg">
+	</a>
+</body>
+</html>
