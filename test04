@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<!-- 상대경로 -현재 파일이 존재하는 폴더 기준으로 불러오는 경로-->
+	<img alt="고양이" src="image/cat.jpg" border="4">
+	<!--  절대경로 -프로젝트 기준으로 작성한 경로 - 권장 -->
+	<img src="/HTML/image/cat.jpg" width="100"
+		height="100" align="right">
+	
+</body>
+</html>
