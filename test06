@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<div align="center">
+		<table border="1" width="150" height="150" cellspacing="20" cellpadding="0">
+			<tr valign="top" bgcolor="brown">
+				<th rowspan="2">0,0</th>
+				<th bgcolor="green">0,1</th>
+				<th>0,2</th>
+			</tr>
+			<tr>
+				<td>1,1</td>
+				<td>1,2</td>
+			</tr>
+			<tr>
+				<td valign="bottom">2,0</td>
+				<td colspan="2">2,1</td>
+			</tr>
+		</table>
+	</div>
+</body>
+</html>
