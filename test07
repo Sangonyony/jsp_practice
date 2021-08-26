@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<table border="4" bordercolor="red" align="center">
+		<caption>
+			<font size="5"><b>자동차 정기 점검</b><br><br></font>
+		</caption>
+		<tr>
+			<th>점검장소</th>
+			<th colspan="2">차종</th>
+		</tr>
+		<tr>
+			<td rowspan="7">1급 정비사업소</td>
+			<td rowspan="3" width="25%">비사업용</td>
+			<td>승용 자동차</td>
+		</tr>
+		<tr>
+			<td>피견인 자동차</td>
+		</tr>
+		<tr>
+			<td>기타 자동차</td>
+		</tr>
+		<tr>
+			<td rowspan="4">사업용</td>
+			<td>승용 자동차</td>
+		</tr>
+		<tr>
+			<td>소형 화물 자동차</td>
+		</tr>
+		<tr>
+			<td>피견인 자동차</td>
+		</tr>
+		<tr>
+			<td>기타 자동차</td>
+		</tr>
+	</table>
+</body>
+</html>
